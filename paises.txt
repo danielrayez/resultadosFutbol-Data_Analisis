@@ -1,0 +1,224 @@
+id_pais	pais	latitud	longitud
+AF	Afganistan	33,0000	65,0000
+AL	Albania	41,3333	19,8167
+DE	Alemania	51,0000	9,0000
+AD	Andorra	42,5000	1,6000
+AO	Angola	-12,5000	18,5000
+AI	Anguila	18,2500	-63,1667
+AG	Antigua y Barbuda	17,0500	-61,8000
+SA	Arabia Saudita	25,0000	45,0000
+DZ	Argelia	28,0000	3,0000
+AR	Argentina	-34,0000	-64,0000
+AM	Armenia	40,0000	45,0000
+AW	Aruba	12,5000	-69,9667
+AU	Australia	-27,0000	133,0000
+AT	Austria	47,3333	13,3333
+AZ	Azerbaiyan	40,5000	47,5000
+BT	Bahamas	24,2500	-76,0000
+BD	Bangladesh	24,0000	90,0000
+BB	Barbados	13,1667	-59,5333
+BH	Baréin	26,0000	50,5500
+BE	Bélgica	50,8333	4,0000
+BZ	Belice	17,2500	-88,7500
+BJ	Benín	9,5000	2,2500
+BM	Bermudas	32,3333	-64,7500
+BY	Bielorrusia	53,0000	28,0000
+MM	Birmania	22,0000	98,0000
+BO	Bolivia	-17,0000	-65,0000
+BA	Bosnia-Herzegovina	44,0000	18,0000
+BW	Botswana	-22,0000	24,0000
+BR	Brasil	-10,0000	-55,0000
+BN	Brunei	4,5000	114,6667
+BG	Bulgaria	43,0000	25,0000
+BF	Burkina Faso	13,0000	-2,0000
+BI	Burundi	-3,5000	30,0000
+BS	Bután	27,5000	90,5000
+CV	Cabo Verde	16,0000	-24,0000
+KH	Camboya	13,0000	105,0000
+CM	Camerun	6,0000	12,0000
+CA	Canada	60,0000	-95,0000
+TD	Chad	15,0000	19,0000
+CL	Chile	-30,0000	-71,0000
+CN	China	35,0000	105,0000
+CY	Chipre	35,0000	33,0000
+CO	Colombia	4,0000	-72,0000
+KM	Comoras	-12,1667	44,2500
+KP	Corea del Norte	40,0000	127,0000
+KR	Corea del Sur	37,0000	127,5000
+CI	Costa de Marfil	8,0000	-5,0000
+CR	Costa Rica	10,0000	-84,0000
+HR	Croacia	45,1667	15,5000
+CU	Cuba	21,5000	-80,0000
+CW	Curazao	12,1667	-68,9667
+DK	Dinamarca	56,0000	10,0000
+DJ	Djibuti	11,5000	43,0000
+DM	Dominica	15,4167	-61,3333
+EC	Ecuador	-2,0000	-77,5000
+EG	Egipto	27,0000	30,0000
+SV	El Salvador	13,8333	-88,9167
+AE	Emiratos Arabes Unidos	24,0000	54,0000
+ER	Eritrea	15,0000	39,0000
+SS	Escocia	57,0000	-5,0000
+SK	Eslovaquia	48,6667	19,5000
+SI	Eslovenia	46,0000	15,0000
+ES	España	40,0000	-4,0000
+US	Estados Unidos	38,0000	-97,0000
+EE	Estonia	59,0000	26,0000
+ET	Etiopia	8,0000	38,0000
+PH	Filipinas	13,0000	122,0000
+FI	Finlandia	64,0000	26,0000
+FJ	Fiyi	-18,0000	175,0000
+FR	Francia	46,0000	2,0000
+GA	Gabon	-1,0000	11,7500
+WA	Gales	52,3500	-3,6300
+GM	Gambia	13,4667	-16,5667
+GE	Georgia	42,0000	43,5000
+GH	Ghana	8,0000	-2,0000
+GI	Gibraltar	36,1833	-5,3667
+GB	Gran Bretania	51,5072	-0,1275
+GD	Granada	12,1167	-61,6667
+GR	Grecia	39,0000	22,0000
+GP	Guadalupe	16,2500	-61,5833
+GU	Guam	13,4667	144,7833
+GT	Guatemala	15,5000	-90,2500
+GG	Guernsey	49,5000	-2,5600
+GN	Guinea	11,0000	-10,0000
+GQ	Guinea Ecuatorial	2,0000	10,0000
+GW	Guinea-Bissau	12,0000	-15,0000
+GY	Guyana	5,0000	-59,0000
+GF	Guyana Francesa	4,0000	-53,0000
+HT	Haití	19,0000	-72,4167
+HN	Honduras	15,0000	-86,5000
+HK	Hong Kong	22,2500	114,1667
+HU	Hungría	47,0000	20,0000
+IN	India	20,0000	77,0000
+ID	Indonesia	-5,0000	120,0000
+IQ	Irak	33,0000	44,0000
+IR	Irán	32,0000	53,0000
+IE	Irlanda	53,0000	-8,0000
+IE	Irlanda del Norte	54,5964	-5,9300
+IS	Islandia	65,0000	-18,0000
+KY	Islas Caimán	19,5000	-80,5000
+CK	Islas Cook	-21,2333	-159,7667
+FO	Islas Feroe	62,0000	-7,0000
+SB	Islas Salomón	-8,0000	159,0000
+TC	Islas Turcas y Caicos	21,7500	-71,5833
+VG	Islas Vírgenes Británicas	18,5000	-64,5000
+VI	Islas Vírgenes de los Estados Unidos	18,3333	-64,8333
+IL	Israel	31,5000	34,7500
+IT	Italia	42,8333	12,8333
+JM	Jamaica	18,2500	-77,5000
+JP	Japón	36,0000	138,0000
+JO	Jordania	31,0000	36,0000
+KZ	Kazajistán	48,0000	68,0000
+KE	Kenia	1,0000	38,0000
+KG	Kirguistán	41,0000	75,0000
+XK	Kosovo	42,5500	20,8500
+KW	Kuwait	29,3375	47,6581
+LA	Laos	18,0000	105,0000
+LS	Lesoto	-29,5000	28,5000
+LV	Letonia	57,0000	25,0000
+LB	Líbano	33,8333	35,8333
+LR	Liberia	6,5000	-9,5000
+LY	Libia	25,0000	17,0000
+LI	Liechtenstein	47,1667	9,5333
+LT	Lituania	56,0000	24,0000
+LU	Luxemburgo	49,7500	6,1667
+MO	Macao	22,1667	113,5500
+MK	Macedonia del Norte	41,8333	22,0000
+MG	Madagascar	-20,0000	47,0000
+MY	Malasia	2,5000	112,5000
+MW	Malawi	-13,5000	34,0000
+MV	Maldivas	3,2500	73,0000
+ML	Malí	17,0000	-4,0000
+MT	Malta	35,8333	14,5833
+MA	Marruecos	32,0000	-5,0000
+MU	Mauricio	-20,2833	57,5500
+MR	Mauritania	20,0000	-12,0000
+MX	México	23,0000	-102,0000
+MD	Moldavia	47,0000	29,0000
+MC	Mónaco	43,7333	7,4000
+MN	Mongolia	46,0000	105,0000
+ME	Montenegro	42,0000	19,0000
+MS	Montserrat	16,7500	-62,2000
+MZ	Mozambique	-18,2500	35,0000
+NA	Namibia	-22,0000	17,0000
+NR	Nauru	-0,5333	166,9167
+NP	Nepal	28,0000	84,0000
+NI	Nicaragua	13,0000	-85,0000
+NE	Níger	16,0000	8,0000
+NG	Nigeria	10,0000	8,0000
+NU	Niue	-19,0333	-169,8667
+NO	Noruega	62,0000	10,0000
+NC	Nueva Caledonia	-21,5000	165,5000
+NZ	Nueva Zelanda	-41,0000	174,0000
+OM	Omán	21,0000	57,0000
+NL	Países Bajos	52,5000	5,7500
+PK	Pakistán	30,0000	70,0000
+PW	Palau	7,5000	134,5000
+PS	Palestina	32,0000	35,2500
+PA	Panamá	9,0000	-80,0000
+PG	Papúa Nueva Guinea	-6,0000	147,0000
+PY	Paraguay	-23,0000	-58,0000
+PE	Perú	-10,0000	-76,0000
+PF	Polinesia Francesa	-15,0000	-140,0000
+PL	Polonia	52,0000	20,0000
+PT	Portugal	39,5000	-8,0000
+PR	Puerto Rico	18,2500	-66,5000
+QA	Qatar	25,5000	51,2500
+UK	Reino Unido	54,0000	-2,0000
+CF	República Centroafricana	7,0000	21,0000
+CZ	República Checa	49,7500	15,5000
+CG	República del Congo	-1,0000	15,0000
+CD	República Democrática del Congo 	0,0000	25,0000
+DO	República Dominicana	19,0000	-70,6667
+RW	Ruanda	-2,0000	30,0000
+RO	Rumania	46,0000	25,0000
+RU	Rusia	60,0000	100,0000
+EH	Sáhara Occidental	24,5000	-13,0000
+WS	Samoa	-13,5833	-172,3333
+AS	Samoa Americana	-14,3333	-170,0000
+KN	San Cristóbal y Nieves	17,3333	-62,7500
+SM	San Marino	43,7667	12,4167
+PM	San Pedro y Miquelón	46,8333	-56,3333
+VC	San Vicente y las Granadinas	13,2500	-61,2000
+SH	Santa Elena, Ascensión y Tristán de Acuña	-15,9333	-5,7000
+LC	Santa Lucía	13,8833	-61,1333
+ST	Santo Tomé y Príncipe	1,0000	7,0000
+SN	Senegal	14,0000	-14,0000
+RS	Serbia	44,0000	21,0000
+SC	Seychelles	-4,5833	55,6667
+SL	Sierra Leona	8,5000	-11,5000
+SG	Singapur	1,3667	103,8000
+SY	Siria	35,0000	38,0000
+SO	Somalia	10,0000	49,0000
+LK	Sri Lanka	7,0000	81,0000
+SZ	Suazilandia	-26,5000	31,5000
+ZA	Sudáfrica	-29,0000	24,0000
+SD	Sudán	15,0000	30,0000
+SE	Suecia	62,0000	15,0000
+CH	Suiza	47,0000	8,0000
+SR	Surinam	4,0000	-56,0000
+TH	Tailandia	15,0000	100,0000
+TW	Taiwán	23,5000	121,0000
+TZ	Tanzania	-6,0000	35,0000
+TJ	Tayikistán	39,0000	71,0000
+IO	Territorio británico del Océano Índico	-6,0000	71,5000
+TP	Timor Oriental	-8,5500	125,5167
+TG	Togo	8,0000	1,1667
+TO	Tonga	-20,0000	-175,0000
+TT	Trinidad y Tobago	11,0000	-61,0000
+TN	Túnez	34,0000	9,0000
+TM	Turkmenistán	40,0000	60,0000
+TR	Turquía	39,0000	35,0000
+TV	Tuvalu	-8,0000	178,0000
+UA	Ucrania	49,0000	32,0000
+UG	Uganda	1,0000	32,0000
+UY	Uruguay	-33,0000	-56,0000
+UZ	Uzbekistán	41,0000	64,0000
+VU	Vanuatu	-16,0000	167,0000
+VE	Venezuela	8,0000	-66,0000
+VN	Vietnam	16,0000	106,0000
+YE	Yemen	15,0000	48,0000
+ZM	Zambia	-15,0000	30,0000
+ZW	Zimbabwe	-20,0000	30,0000

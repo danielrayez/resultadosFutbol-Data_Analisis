@@ -1,0 +1,213 @@
+pais	id_pais_nacionalidad	id_pais_equipo	cod_pais1	cod_pais2	confederacion	continente
+Afganistan	AF-Afganistan	Afganistan-AF-AFC	AF	AF	AFC	Asia
+Albania	AL-Albania	Albania-AL-UEFA	AL	AL	UEFA	Europa
+Alemania	DE-Alemania	Alemania-DE-UEFA	DE	DE	UEFA	Europa
+Andorra	AD-Andorra	Andorra-AD-UEFA	AD	AD	UEFA	Europa
+Angola	AO-Angola	Angola-AO-CAF	AO	AO	CAF	Oceanía
+Anguila	AI-Anguila	Anguila-AI-CONCACAF	AI	AI	CONCACAF	America
+Antigua y Barbuda	AG-Antigua y Barbuda	Antigua y Barbuda-AG-CONCACAF	AG	AG	CONCACAF	America
+Arabia Saudita	SA-Arabia Saudita	Arabia Saudita-SA-AFC	SA	SA	AFC	Asia
+Argelia	DZ-Argelia	Argelia-DZ-CAF	DZ	DZ	CAF	Africa
+Argentina	AR-Argentina	Argentina-AR-CONMEBOL	AR	AR	CONMEBOL	America
+Armenia	AM-Armenia	Armenia-AM-UEFA	AM	AM	UEFA	Europa
+Aruba	AW-Aruba	Aruba-AW-CONCACAF	AW	AW	CONCACAF	America
+Australia	AU-Australia	Australia-AU-AFC	AU	AU	AFC	Oceania
+Austria	AT-Austria	Austria-AT-UEFA	AT	AT	UEFA	Europa
+Azerbaiyan	AZ-Azerbaiyan	Azerbaiyan-AZ-UEFA	AZ	AZ	UEFA	Europa
+Bahamas	BT-Bahamas	Bahamas-BT-CONCACAF	BT	BT	CONCACAF	America
+Bangladesh	BD-Bangladesh	Bangladesh-BD-AFC	BD	BD	AFC	Asia
+Barbados	BB-Barbados	Barbados-BB-CONCACAF	BB	BB	CONCACAF	America
+Baréin	BH-Baréin	Baréin-BH-AFC	BH	BH	AFC	Asia
+Belgica	BE-Belgica	Belgica-BE-UEFA	BE	BE	UEFA	Europa
+Belice	BZ-Belice	Belice-BZ-CONCACAF	BZ	BZ	CONCACAF	America
+Benín	BJ-Benín	Benín-BJ-CAF	BJ	BJ	CAF	Africa
+Bermudas	BM-Bermudas	Bermudas-BM-CONCACAF	BM	BM	CONCACAF	America
+Bielorrusia	BY-Bielorrusia	Bielorrusia-BY-UEFA	BY	BY	UEFA	Europa
+Birmania	MM-Birmania	Birmania-MM-AFC	MM	MM	AFC	Asia
+Bolivia	BO-Bolivia	Bolivia-BO-CONMEBOL	BO	BO	CONMEBOL	America
+Bosnia-Herzegovina	BA-Bosnia-Herzegovina	Bosnia-Herzegovina-BA-UEFA	BA	BA	UEFA	Europa
+Botswana	BW-Botswana	Botswana-BW-CAF	BW	BW	CAF	Africa
+Brasil	BR-Brasil	Brasil-BR-CONMEBOL	BR	BR	CONMEBOL	America
+Brunei	BN-Brunei	Brunei-BN-AFC	BN	BN	AFC	Asia
+Bulgaria	BG-Bulgaria	Bulgaria-BG-UEFA	BG	BG	UEFA	Europa
+Burkina Faso	BF-Burkina Faso	Burkina Faso-BF-CAF	BF	BF	CAF	Africa
+Burundi	BI-Burundi	Burundi-BI-CAF	BI	BI	CAF	Africa
+Butan	BS-Butan	Butan-BS-AFC	BS	BS	AFC	Asia
+Cabo Verde	CV-Cabo Verde	Cabo Verde-CV-CAF	CV	CV	CAF	Africa
+Camboya	KH-Camboya	Camboya-KH-AFC	KH	KH	AFC	Asia
+Camerun	CM-Camerun	Camerun-CM-CAF	CM	CM	CAF	Africa
+Canada	CA-Canada	Canada-CA-CONCACAF	CA	CA	CONCACAF	America
+Chad	TD-Chad	Chad-TD-CAF	TD	TD	CAF	Africa
+Chile	CL-Chile	Chile-CL-CONMEBOL	CL	CL	CONMEBOL	America
+China	CN-China	China-CN-AFC	CN	CN	AFC	Asia
+Chipre	CY-Chipre	Chipre-CY-UEFA	CY	CY	UEFA	Europa
+Colombia	CO-Colombia	Colombia-CO-CONMEBOL	CO	CO	CONMEBOL	America
+Comoras	KM-Comoras	Comoras-KM-CAF	KM	KM	CAF	Africa
+Corea del Norte	KP-Corea del Norte	Corea del Norte-KP-AFC	KP	KP	AFC	Asia
+Corea del Sur	KR-Corea del Sur	Corea del Sur-KR-AFC	KR	KR	AFC	Asia
+Costa de Marfil	CI-Costa de Marfil	Costa de Marfil-CI-CAF	CI	CI	CAF	Africa
+Costa Rica	CR-Costa Rica	Costa Rica-CR-CONCACAF	CR	CR	CONCACAF	America
+Croacia	HR-Croacia	Croacia-HR-UEFA	HR	HR	UEFA	Europa
+Cuba	CU-Cuba	Cuba-CU-CONCACAF	CU	CU	CONCACAF	America
+Curazao	CU-Curazao	Curazao-CU-CONCACAF	CU	CU	CONCACAF	America
+Dinamarca	DK-Dinamarca	Dinamarca-DK-UEFA	DK	DK	UEFA	Europa
+Djibuti	DJ-Djibuti	Djibuti-DJ-CAF	DJ	DJ	CAF	Africa
+Dominica	DM-Dominica	Dominica-DM-CONCACAF	DM	DM	CONCACAF	America
+Ecuador	EC-Ecuador	Ecuador-EC-CONMEBOL	EC	EC	CONMEBOL	America
+Egipto	EG-Egipto	Egipto-EG-CAF	EG	EG	CAF	Africa
+El Salvador	SV-El Salvador	El Salvador-SV-CONCACAF	SV	SV	CONCACAF	America
+Emiratos Arabes Unidos	AE-Emiratos Arabes Unidos	Emiratos Arabes Unidos-AE-AFC	AE	AE	AFC	Asia
+Eritrea	ER-Eritrea	Eritrea-ER-CAF	ER	ER	CAF	Africa
+Escocia	SS-Escocia	Escocia-SS-UEFA	SS	SS	UEFA	Europa
+Eslovaquia	SK-Eslovaquia	Eslovaquia-SK-UEFA	SK	SK	UEFA	Europa
+Eslovenia	SI-Eslovenia	Eslovenia-SI-UEFA	SI	SI	UEFA	Europa
+Espania	ES-Espania	Espania-ES-UEFA	ES	ES	UEFA	Europa
+Estados Unidos	US-Estados Unidos	Estados Unidos-US-CONCACAF	US	US	CONCACAF	America
+Estonia	EE-Estonia	Estonia-EE-UEFA	EE	EE	UEFA	Europa
+Etiopia	ET-Etiopia	Etiopia-ET-CAF	ET	ET	CAF	Africa
+Filipinas	PH-Filipinas	Filipinas-PH-AFC	PH	PH	AFC	Asia
+Finlandia	FI-Finlandia	Finlandia-FI-UEFA	FI	FI	UEFA	Europa
+Fiyi	FJ-Fiyi	Fiyi-FJ-OFC	FJ	FJ	OFC	Oceania
+Francia	FR-Francia	Francia-FR-UEFA	FR	FR	UEFA	Europa
+Gabon	GA-Gabon	Gabon-GA-CAF	GA	GA	CAF	Africa
+Gales	WA-Gales	Gales-WA-UEFA	WA	WA	UEFA	Europa
+Gambia	GM-Gambia	Gambia-GM-CAF	GM	GM	CAF	Africa
+Georgia	GE-Georgia	Georgia-GE-UEFA	GE	GE	UEFA	Europa
+Ghana	GH-Ghana	Ghana-GH-CAF	GH	GH	CAF	Africa
+Gibraltar	GI-Gibraltar	Gibraltar-GI-UEFA	GI	GI	UEFA	Europa
+Gran Bretania	GB-Gran Bretania	Gran Bretania-GB-	GB	GB		Europa
+Granada	GD-Granada	Granada-GD-CONCACAF	GD	GD	CONCACAF	America
+Grecia	GR-Grecia	Grecia-GR-UEFA	GR	GR	UEFA	Europa
+Guadalupe	GP-Guadalupe	Guadalupe-GP-	GP	GP		America
+Guam	GU-Guam	Guam-GU-AFC	GU	GU	AFC	Asia
+Guatemala	GT-Guatemala	Guatemala-GT-CONCACAF	GT	GT	CONCACAF	America
+Guinea	GN-Guinea	Guinea-GN-CAF	GN	GN	CAF	Africa
+Guinea Ecuatorial	GQ-Guinea Ecuatorial	Guinea Ecuatorial-GQ-CAF	GQ	GQ	CAF	Africa
+Guinea-Bissau	GW-Guinea-Bissau	Guinea-Bissau-GW-CAF	GW	GW	CAF	Africa
+Guyana	GY-Guyana	Guyana-GY-CONCACAF	GY	GY	CONCACAF	America
+Haiti	HT-Haiti	Haiti-HT-CONCACAF	HT	HT	CONCACAF	America
+Honduras	HN-Honduras	Honduras-HN-CONCACAF	HN	HN	CONCACAF	America
+Hong Kong	HK-Hong Kong	Hong Kong-HK-AFC	HK	HK	AFC	Asia
+Hungria	HU-Hungria	Hungria-HU-UEFA	HU	HU	UEFA	Europa
+India	IN-India	India-IN-AFC	IN	IN	AFC	Asia
+Indonesia	ID-Indonesia	Indonesia-ID-AFC	ID	ID	AFC	Asia
+Inglaterra	GB-Inglaterra	Inglaterra-GB-UEFA	GB	GB	UEFA	Europa
+Irak	IQ-Irak	Irak-IQ-AFC	IQ	IQ	AFC	Asia
+Irán	IR-Irán	Irán-IR-AFC	IR	IR	AFC	Asia
+Irlanda	IE-Irlanda	Irlanda-IE-UEFA	IE	IE	UEFA	Europa
+Irlanda Norte	GB-Irlanda Norte	Irlanda Norte-GB-UEFA	GB	GB	UEFA	Europa
+Islandia	IS-Islandia	Islandia-IS-UEFA	IS	IS	UEFA	Europa
+Islas Caimán	KY-Islas Caimán	Islas Caimán-KY-CONCACAF	KY	KY	CONCACAF	America
+Islas Cook	CK-Islas Cook	Islas Cook-CK-OFC	CK	CK	OFC	Oceania
+Islas Feroe	FO-Islas Feroe	Islas Feroe-FO-UEFA	FO	FO	UEFA	Europa
+Islas Salomón	SB-Islas Salomón	Islas Salomón-SB-OFC	SB	SB	OFC	Oceania
+Islas Turcas y Caicos	TC-Islas Turcas y Caicos	Islas Turcas y Caicos-TC-CONCACAF	TC	TC	CONCACAF	America
+Islas Vírgenes Británicas	VG-Islas Vírgenes Británicas	Islas Vírgenes Británicas-VG-CONCACAF	VG	VG	CONCACAF	America
+Islas Vírgenes de los Estados Unidos	VI-Islas Vírgenes de los Estados Unidos	Islas Vírgenes de los Estados Unidos-VI-CONCACAF	VI	VI	CONCACAF	America
+Israel	IL-Israel	Israel-IL-UEFA	IL	IL	UEFA	Asia
+Italia	IT-Italia	Italia-IT-UEFA	IT	IT	UEFA	Europa
+Jamaica	JM-Jamaica	Jamaica-JM-CONCACAF	JM	JM	CONCACAF	America
+Japón	JP-Japón	Japón-JP-AFC	JP	JP	AFC	Asia
+Jordania	JO-Jordania	Jordania-JO-AFC	JO	JO	AFC	Asia
+Kazajistán	KZ-Kazajistán	Kazajistán-KZ-UEFA	KZ	KZ	UEFA	Asia
+Kenia	KE-Kenia	Kenia-KE-CAF	KE	KE	CAF	Africa
+Kirguistán	KG-Kirguistán	Kirguistán-KG-AFC	KG	KG	AFC	Asia
+Kosovo	XK-Kosovo	Kosovo-XK-UEFA	XK	XK	UEFA	Europa
+Kuwait	KW-Kuwait	Kuwait-KW-AFC	KW	KW	AFC	Asia
+Laos	LA-Laos	Laos-LA-AFC	LA	LA	AFC	Asia
+Lesoto	LS-Lesoto	Lesoto-LS-CAF	LS	LS	CAF	Africa
+Letonia	LV-Letonia	Letonia-LV-UEFA	LV	LV	UEFA	Europa
+Líbano	LB-Líbano	Líbano-LB-AFC	LB	LB	AFC	Asia
+Liberia	LR-Liberia	Liberia-LR-CAF	LR	LR	CAF	Africa
+Libia	LY-Libia	Libia-LY-CAF	LY	LY	CAF	Africa
+Liechtenstein	LI-Liechtenstein	Liechtenstein-LI-UEFA	LI	LI	UEFA	Europa
+Lituania	LT-Lituania	Lituania-LT-UEFA	LT	LT	UEFA	Europa
+Luxemburgo	LU-Luxemburgo	Luxemburgo-LU-UEFA	LU	LU	UEFA	Europa
+Macao	MO-Macao	Macao-MO-AFC	MO	MO	AFC	Asia
+Macedonia del Norte	MK-Macedonia del Norte	Macedonia del Norte-MK-UEFA	MK	MK	UEFA	Europa
+Madagascar	MG-Madagascar	Madagascar-MG-CAF	MG	MG	CAF	Africa
+Malasia	MY-Malasia	Malasia-MY-AFC	MY	MY	AFC	Asia
+Malaui	MW-Malaui	Malaui-MW-CAF	MW	MW	CAF	Africa
+Maldivas	MV-Maldivas	Maldivas-MV-AFC	MV	MV	AFC	Asia
+Malí	ML-Malí	Malí-ML-CAF	ML	ML	CAF	Africa
+Malta	MT-Malta	Malta-MT-UEFA	MT	MT	UEFA	Europa
+Marruecos	MA-Marruecos	Marruecos-MA-CAF	MA	MA	CAF	Africa
+Mauricio	MU-Mauricio	Mauricio-MU-CAF	MU	MU	CAF	Africa
+Mauritania	MR-Mauritania	Mauritania-MR-CAF	MR	MR	CAF	Africa
+México	MX-México	México-MX-CONCACAF	MX	MX	CONCACAF	America
+Moldavia	MD-Moldavia	Moldavia-MD-UEFA	MD	MD	UEFA	Europa
+Mongolia	MN-Mongolia	Mongolia-MN-AFC	MN	MN	AFC	Asia
+Montenegro	ME-Montenegro	Montenegro-ME-UEFA	ME	ME	UEFA	Europa
+Montserrat	MS-Montserrat	Montserrat-MS-CONCACAF	MS	MS	CONCACAF	America
+Mozambique	MZ-Mozambique	Mozambique-MZ-CAF	MZ	MZ	CAF	Africa
+Namibia	NA-Namibia	Namibia-NA-CAF	NA	NA	CAF	Africa
+Nepal	NP-Nepal	Nepal-NP-AFC	NP	NP	AFC	Asia
+Nicaragua	NI-Nicaragua	Nicaragua-NI-CONCACAF	NI	NI	CONCACAF	America
+Níger	NE-Níger	Níger-NE-CAF	NE	NE	CAF	Africa
+Nigeria	NG-Nigeria	Nigeria-NG-CAF	NG	NG	CAF	Africa
+Noruega	NO-Noruega	Noruega-NO-UEFA	NO	NO	UEFA	Europa
+Nueva Caledonia	NC-Nueva Caledonia	Nueva Caledonia-NC-OFC	NC	NC	OFC	Oceania
+Nueva Zelanda	NZ-Nueva Zelanda	Nueva Zelanda-NZ-OFC	NZ	NZ	OFC	Oceania
+Omán	OM-Omán	Omán-OM-AFC	OM	OM	AFC	Asia
+Países Bajos	NL-Países Bajos	Países Bajos-NL-UEFA	NL	NL	UEFA	Europa
+Pakistán	PK-Pakistán	Pakistán-PK-AFC	PK	PK	AFC	Asia
+Palestina	PS-Palestina	Palestina-PS-AFC	PS	PS	AFC	Asia
+Panamá	PA-Panamá	Panamá-PA-CONCACAF	PA	PA	CONCACAF	America
+Papúa Nueva Guinea	PG-Papúa Nueva Guinea	Papúa Nueva Guinea-PG-OFC	PG	PG	OFC	Oceania
+Paraguay	PY-Paraguay	Paraguay-PY-CONMEBOL	PY	PY	CONMEBOL	America
+Peru	PE-Peru	Peru-PE-CONMEBOL	PE	PE	CONMEBOL	America
+Polonia	PF-Polonia	Polonia-PF-UEFA	PF	PF	UEFA	Europa
+Portugal	PT-Portugal	Portugal-PT-UEFA	PT	PT	UEFA	Europa
+Puerto Rico	PR-Puerto Rico	Puerto Rico-PR-CONCACAF	PR	PR	CONCACAF	America
+Qatar	QA-Qatar	Qatar-QA-AFC	QA	QA	AFC	Asia
+Reino Unido	UK-Reino Unido	Reino Unido-UK-UEFA	UK	UK	UEFA	Europa
+República Centroafricana	CF-República Centroafricana	República Centroafricana-CF-CAF	CF	CF	CAF	Africa
+República Checa	CZ-República Checa	República Checa-CZ-UEFA	CZ	CZ	UEFA	Europa
+República del Congo	CG-República del Congo	República del Congo-CG-CAF	CG	CG	CAF	Africa
+República Democrática del Congo	CD-República Democrática del Congo	República Democrática del Congo-CD-CAF	CD	CD	CAF	Africa
+República Dominicana	DO-República Dominicana	República Dominicana-DO-CONCACAF	DO	DO	CONCACAF	America
+Ruanda	RW-Ruanda	Ruanda-RW-CAF	RW	RW	CAF	Africa
+Rumania	RO-Rumania	Rumania-RO-UEFA	RO	RO	UEFA	Europa
+Rusia	RU-Rusia	Rusia-RU-UEFA	RU	RU	UEFA	Europa
+Samoa	WS-Samoa	Samoa-WS-OFC	WS	WS	OFC	Oceania
+Samoa Americana	AS-Samoa Americana	Samoa Americana-AS-OFC	AS	AS	OFC	Oceania
+San Cristóbal y Nieves	KN-San Cristóbal y Nieves	San Cristóbal y Nieves-KN-CONCACAF	KN	KN	CONCACAF	America
+San Marino	SM-San Marino	San Marino-SM-UEFA	SM	SM	UEFA	Europa
+San Vicente y las Granadinas	VC-San Vicente y las Granadinas	San Vicente y las Granadinas-VC-CONCACAF	VC	VC	CONCACAF	America
+Santa Lucía	LC-Santa Lucía	Santa Lucía-LC-CONCACAF	LC	LC	CONCACAF	America
+Santo Tomé y Príncipe	ST-Santo Tomé y Príncipe	Santo Tomé y Príncipe-ST-CAF	ST	ST	CAF	Africa
+Senegal	SN-Senegal	Senegal-SN-CAF	SN	SN	CAF	Africa
+Serbia	RS-Serbia	Serbia-RS-UEFA	RS	RS	UEFA	Europa
+Seychelles	SC-Seychelles	Seychelles-SC-CAF	SC	SC	CAF	Africa
+Sierra Leona	SL-Sierra Leona	Sierra Leona-SL-CAF	SL	SL	CAF	Africa
+Singapur	SG-Singapur	Singapur-SG-AFC	SG	SG	AFC	Asia
+Siria	SY-Siria	Siria-SY-AFC	SY	SY	AFC	Asia
+Somalia	SO-Somalia	Somalia-SO-CAF	SO	SO	CAF	Africa
+Sri Lanka	LK-Sri Lanka	Sri Lanka-LK-AFC	LK	LK	AFC	Asia
+Sudáfrica	ZA-Sudáfrica	Sudáfrica-ZA-CAF	ZA	ZA	CAF	Africa
+Sudán	SD-Sudán	Sudán-SD-CAF	SD	SD	CAF	Africa
+Suecia	SE-Suecia	Suecia-SE-UEFA	SE	SE	UEFA	Europa
+Suiza	CH-Suiza	Suiza-CH-UEFA	CH	CH	UEFA	Europa
+Surinam	SR-Surinam	Surinam-SR-CONCACAF	SR	SR	CONCACAF	America
+Tahití	PF-Tahití	Tahití-PF-OFC	PF	PF	OFC	Oceania
+Tailandia	TH-Tailandia	Tailandia-TH-AFC	TH	TH	AFC	Asia
+Taiwan	TW-Taiwan	Taiwan-TW-AFC	TW	TW	AFC	Asia
+Tanzania	TZ-Tanzania	Tanzania-TZ-CAF	TZ	TZ	CAF	Africa
+Tayikistán	TJ-Tayikistán	Tayikistán-TJ-AFC	TJ	TJ	AFC	Asia
+Timor Oriental	TP-Timor Oriental	Timor Oriental-TP-AFC	TP	TP	AFC	Asia
+Togo	TG-Togo	Togo-TG-CAF	TG	TG	CAF	Africa
+Tonga	TO-Tonga	Tonga-TO-OFC	TO	TO	OFC	Oceania
+Trinidad y Tobago	TT-Trinidad y Tobago	Trinidad y Tobago-TT-CONCACAF	TT	TT	CONCACAF	America
+Túnez	TN-Túnez	Túnez-TN-CAF	TN	TN	CAF	Africa
+Turkmenistán	TM-Turkmenistán	Turkmenistán-TM-AFC	TM	TM	AFC	Asia
+Turquía	TR-Turquía	Turquía-TR-UEFA	TR	TR	UEFA	Europa
+Ucrania	UA-Ucrania	Ucrania-UA-UEFA	UA	UA	UEFA	Europa
+Uganda	UG-Uganda	Uganda-UG-CAF	UG	UG	CAF	Africa
+Uruguay	UY-Uruguay	Uruguay-UY-CONMEBOL	UY	UY	CONMEBOL	America
+Uzbekistán	UZ-Uzbekistán	Uzbekistán-UZ-AFC	UZ	UZ	AFC	Asia
+Vanuatu	VU-Vanuatu	Vanuatu-VU-OFC	VU	VU	OFC	Oceania
+Venezuela	VE-Venezuela	Venezuela-VE-CONMEBOL	VE	VE	CONMEBOL	America
+Vietnam	VN-Vietnam	Vietnam-VN-AFC	VN	VN	AFC	Asia
+Yemen	YE-Yemen	Yemen-YE-AFC	YE	YE	AFC	Asia
+Zambia	ZM-Zambia	Zambia-ZM-CAF	ZM	ZM	CAF	Africa
+Zimbabue	ZW-Zimbabue	Zimbabue-ZW-CAF	ZW	ZW	CAF	Africa
